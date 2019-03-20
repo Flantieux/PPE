@@ -1,0 +1,40 @@
+.titre p{
+    text-align: center;
+}
+
+.titre{
+    background-color: #f98758;
+}
+
+i.tiny{
+    padding-right: 5%;
+}
+
+.informations{
+    background-color: #f8ddcf;
+    text-align: center;
+    margin-top: 5%;
+}
+
+.modifier{
+    font-size: 5px;
+}
+
+.btn-floating.btn-small i {
+    line-height: 20px;
+}
+
+
+.statut{
+    font-size: 14px;
+}
+
+.btn-floating.btn-small {
+    width: 20px;
+    height: 20px;
+}
+
+<i class="material-icons statut" style="
+font-size: 15px;
+">edit
+</i>
